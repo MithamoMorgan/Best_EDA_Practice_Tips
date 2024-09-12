@@ -48,7 +48,7 @@ The core libraries for EDA:</br>
 
 The goal is to simplify the dataset by removing unnecessary or redundant features.
 
--> Drop Irrelevamt Columns
+-> Drop Irrelevamt Columns</br>
 -> Drop Constant columns as they do not add any information
 
 Consider the domaink knowledge, the objective of your analysis, and statistical measures to determine the relevance of each column.
