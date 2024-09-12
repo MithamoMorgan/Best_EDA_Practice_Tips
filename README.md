@@ -33,6 +33,9 @@ The core libraries for EDA:</br>
 **Missing Values**</br>
     i. Identify Missing Values: isnull().sum() method.</br>
     ii. Handle Missing Data</br>
+**Outliers**</br>
+    i. Detect Outliers</br>
+    ii. Handle Outliers</br>
 **Inconsistent Data:** </br>
   Correct typos and standardize text.</br>
 **Renaming and Reordering Columns:** </br>
@@ -51,7 +54,9 @@ This is the process of using domain knowledge to create new features from the da
   i. Creating Derived Features: eg age</br>
   ii. Categorizing Continuous variables: eg Binning ages into groups</br>
   iii. Extract Info from Text Data: eg names
-  
+
+### 7. Exploratory Data Analysis
+This is an open-ended process where you calculate statistics and make figures to find trends, anomalies, patterns, or relationships within the data. The aim is not only to understand what the data is telling us but also to uncover the underlying structure, detect outliers, and test underlying assumptions.
     
   
   
