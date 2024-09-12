@@ -40,10 +40,9 @@ ii. Drop Constant columns as they do not add any information
 
 Consider the domaink knowledge, the objective of your analysis, and statistical measures to determine the relevance of each column.
 
-###6. Feature Engineering
+### 6. Feature Engineering
 This is the process of using domain knowledge to create new features from the data, which can significantly improve the performance of ML models. This helps to uncover the most impactful attributes hidden within your data.
-
-**Some Techniques:**
+**Some Techniques:**</br>
   i. Creating Derived Features: eg age
   ii. Categorizing Continuous variables: eg Binning ages into groups
   iii. Extract Info from Text Data: eg names
