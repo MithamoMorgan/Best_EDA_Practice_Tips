@@ -19,7 +19,10 @@ The core libraries for EDA:</br>
    * data.tail() # last 5 rows
 
 ### 3. Basic Data Inspection
-    * data.info() # Summary of the DataFrame and non-null values
+   * **Shape:** df.shape
+   * **Data Types and Info:** info() method show data type of each column and identifies any nulls
+   * **Statistical Summary:** describe() method provides a statistical summary of numerical columns.
+   * 
   
     
   
