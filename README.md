@@ -24,14 +24,14 @@ The core libraries for EDA:</br>
    * **Statistical Summary:** describe() method provides a statistical summary of numerical columns.
 
 ### 4. Data Cleaning/Wrangling
-**Data Type Convertion:** Convert data types for proper analysis.
+**Data Type Convertion:** Convert data types for proper analysis.</br>
 **Duplicates**</br>
-  i. Identify Duplicates: duplicated()
+  i. Identify Duplicates: duplicated()</br>
   ii. Remove Duplicates: drop_duplicates()
 
 **Missing Values**</br>
-  i. Identify Missing Values: isnull().sum() method.
-  ii. Handle Missing Data
+  i. Identify Missing Values: isnull().sum() method.</br>
+  ii. Handle Missing Data</br>
 **Inconsistent Data:** Correct typos and standardize text.</br>
 **Renaming and Reordering Columns:** Adjust column names for better readability.
 
