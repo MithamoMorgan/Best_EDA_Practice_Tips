@@ -13,6 +13,7 @@ The core libraries for EDA:</br>
    * **xlsx:** data = pd.read_excel("path")
    * **url:** data = pd.read_csv("url")
    * **Others** data = pd.read_<format>
+   
   **Read Data**
    * data.head()
    * data.tail()
