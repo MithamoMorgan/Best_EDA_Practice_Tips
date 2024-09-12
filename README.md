@@ -33,9 +33,6 @@ The core libraries for EDA:</br>
 **Missing Values**</br>
     i. Identify Missing Values: isnull().sum() method.</br>
     ii. Handle Missing Data</br>
-**Outliers**</br>
-    i. Detect Outliers</br>
-    ii. Handle Outliers</br>
 **Inconsistent Data:** </br>
   Correct typos and standardize text.</br>
 **Renaming and Reordering Columns:** </br>
@@ -59,6 +56,12 @@ This is the process of using domain knowledge to create new features from the da
 This is an open-ended process where you calculate statistics and make figures to find trends, anomalies, patterns, or relationships within the data. The aim is not only to understand what the data is telling us but also to uncover the underlying structure, detect outliers, and test underlying assumptions.
 
 **NB:** EDA is iterative and exploratory in nature. It guides how you frame your analysis, leading to hypothesis generation and further analysis or modeling.
+
+**Key Components of EDA:**
+  i. Descriptive Statistics: Summarize and describe main features of the dataset</br>
+  ii. Data Visualization: Use various plots to see the distribution and relationships between variables.</br>
+  iii. Correlation Analysis: Determine how variables are related to each other.</br>
+  iv. Outlier Detection: Identify and handle unusual observations in the dataset.</br>
     
   
   
