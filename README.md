@@ -9,9 +9,15 @@ The core libraries for EDA:</br>
 
 ### 2. Importing Data and Reading Dataset
   **Import Data**
-  * **CSV:** data = pd.read_csv("path")
-  * **xlsx:** data = pd.read_excel("path")
-  * **url:** data = pd.read_csv("url")
-  * **Others** data = pd.read_<format>
+   * **CSV:** data = pd.read_csv("path")
+   * **xlsx:** data = pd.read_excel("path")
+   * **url:** data = pd.read_csv("url")
+   * **Others** data = pd.read_<format>
   **Read Data**
+   * data.head()
+   * data.tail()
+   * data.info() # Summary of the DataFrame and non-null values
+  
+    
+  
   
