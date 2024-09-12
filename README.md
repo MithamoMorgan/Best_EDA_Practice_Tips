@@ -21,8 +21,7 @@ The core libraries for EDA:</br>
 ### 3. Basic Data Inspection
    * **Shape:** df.shape
    * **Data Types and Info:** info() method show data type of each column and identifies any nulls
-   * **Statistical Summary:** describe() method provides a statistical summary of numerical columns.
-
+     
 ### 4. Data Cleaning/Wrangling
 **Data Type Convertion:** </br>
   Convert data types for proper analysis.</br>
@@ -57,11 +56,25 @@ This is an open-ended process where you calculate statistics and make figures to
 
 **NB:** EDA is iterative and exploratory in nature. It guides how you frame your analysis, leading to hypothesis generation and further analysis or modeling.
 
-**Key Components of EDA:**
+**Key Components of EDA:** </br>
   i. Descriptive Statistics: Summarize and describe main features of the dataset</br>
   ii. Data Visualization: Use various plots to see the distribution and relationships between variables.</br>
+    * Univariate Graphical/ Non-Graphical
+    * Bivariate Graphical/ Non-Graphical
+    * Multivariate Graphical/ Non-Graphical
   iii. Correlation Analysis: Determine how variables are related to each other.</br>
-  iv. Outlier Detection: Identify and handle unusual observations in the dataset.</br>
-    
+  iv. Outlier Detection: Identify unusual observations in the dataset.</br>
+
+### 8. Statistics Summary
+This step is crucial for understanding the distribution, central tendency, and dispersion of the data.
+  * **Descriptive Statistics:** Use describe() method.
+  * **Central Tendency:** Measures like mean, median, and mode.
+  * **Dispersion Measures:** Standard deviation, variance, range, and IQR.
+  * **Skewness and Kurtosis:** Understanding the assymetry and tailedness of the distribution. Helps identify outliers, errors or peculiariries that need attention.
+
+### 9. Data Transformation
+This involves modifying the data to a more suitable format or structure for analysis. This step can include normalization, scaling, or applying mathematical transformations.
+
+These transformations hel[ in preparing the data for more accurate and efficcient analysis, especially when building ML models.
   
   
