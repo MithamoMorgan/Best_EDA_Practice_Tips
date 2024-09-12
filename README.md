@@ -31,7 +31,7 @@ The core libraries for EDA:</br>
   Convert data types for proper analysis.</br>
   
 **Duplicates**</br>
-      i. Identify Duplicates: duplicated()</br>
+    ** Identify Duplicates: duplicated()</br>
     ii. Remove Duplicates: drop_duplicates()
 
 **Missing Values**</br>
