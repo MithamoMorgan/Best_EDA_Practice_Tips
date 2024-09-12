@@ -77,7 +77,7 @@ This is an open-ended process where you calculate statistics and make figures to
     * Multivariate Graphical/ Non-Graphical</br>
     
   iii. Correlation Analysis: Determine how variables are related to each other.</br>
-  iv. Outlier Detection: Identify unusual observations in the dataset.</br>
+  iv. Outlier Detection: Identify and handle unusual observations in the dataset.</br>
 
 ### 8. Statistics Summary
 
