@@ -15,9 +15,11 @@ The core libraries for EDA:</br>
    * **Others** data = pd.read_<format>
    
   **Read Data**
-   * data.head()
-   * data.tail()
-   * data.info() # Summary of the DataFrame and non-null values
+   * data.head() # First 5 rows
+   * data.tail() # last 5 rows
+
+### 3. Basic Data Inspection
+    * data.info() # Summary of the DataFrame and non-null values
   
     
   
