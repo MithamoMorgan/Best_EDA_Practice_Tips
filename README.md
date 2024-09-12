@@ -22,7 +22,16 @@ The core libraries for EDA:</br>
    * **Shape:** df.shape
    * **Data Types and Info:** info() method show data type of each column and identifies any nulls
    * **Statistical Summary:** describe() method provides a statistical summary of numerical columns.
-   * 
+**NB:** Correct the data types if need be.
+
+### 4. Duplication and Missing Values Management
+**Duplicates**
+i. Identify Duplicates: duplicated()
+ii. Remove Duplicates: drop_duplicates()
+
+**Missing Values**
+i. Identify Missing Values: isnull().sum() method.
+ii. Handle Missing Data
   
     
   
