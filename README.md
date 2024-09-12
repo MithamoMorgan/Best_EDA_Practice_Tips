@@ -32,11 +32,11 @@ The core libraries for EDA:</br>
   
 **Duplicates**</br>
     -> Identify Duplicates: duplicated()</br>
-    ii. Remove Duplicates: drop_duplicates()
+    -> Remove Duplicates: drop_duplicates()
 
 **Missing Values**</br>
-    i. Identify Missing Values: isnull().sum() method.</br>
-    ii. Handle Missing Data</br>
+    -> Identify Missing Values: isnull().sum() method.</br>
+    -> Handle Missing Data</br>
     
 **Inconsistent Data:** </br>
   Correct typos and standardize text.</br>
@@ -48,8 +48,8 @@ The core libraries for EDA:</br>
 
 The goal is to simplify the dataset by removing unnecessary or redundant features.
 
-i. Drop Irrelevamt Columns
-ii. Drop Constant columns as they do not add any information
+-> Drop Irrelevamt Columns
+-> Drop Constant columns as they do not add any information
 
 Consider the domaink knowledge, the objective of your analysis, and statistical measures to determine the relevance of each column.
 
@@ -58,9 +58,9 @@ Consider the domaink knowledge, the objective of your analysis, and statistical 
 This is the process of using domain knowledge to create new features from the data, which can significantly improve the performance of ML models. This helps to uncover the most impactful attributes hidden within your data.
 
 **Some Techniques:** </br>
-  i. Creating Derived Features: eg age</br>
-  ii. Categorizing Continuous variables: eg Binning ages into groups</br>
-  iii. Extract Info from Text Data: eg names
+  -> Creating Derived Features: eg age</br>
+  -> Categorizing Continuous variables: eg Binning ages into groups</br>
+  -> Extract Info from Text Data: eg names
 
 ### 7. Exploratory Data Analysis
 
@@ -69,15 +69,15 @@ This is an open-ended process where you calculate statistics and make figures to
 **NB:** EDA is iterative and exploratory in nature. It guides how you frame your analysis, leading to hypothesis generation and further analysis or modeling.
 
 **Key Components of EDA:** </br>
-  i. Descriptive Statistics: Summarize and describe main features of the dataset</br>
-  ii. Data Visualization: Use various plots to see the distribution and relationships between variables.</br>
+  -> Descriptive Statistics: Summarize and describe main features of the dataset</br>
+  -> Data Visualization: Use various plots to see the distribution and relationships between variables.</br>
   
     * Univariate Graphical/ Non-Graphical</br>
     * Bivariate Graphical/ Non-Graphical</br>
     * Multivariate Graphical/ Non-Graphical</br>
     
-  iii. Correlation Analysis: Determine how variables are related to each other.</br>
-  iv. Outlier Detection: Identify and handle unusual observations in the dataset.</br>
+  -> Correlation Analysis: Determine how variables are related to each other.</br>
+  -> Outlier Detection: Identify and handle unusual observations in the dataset.</br>
 
 ### 8. Statistics Summary
 
@@ -116,7 +116,7 @@ Storytelling:
 Communicating Results:
 * Present your findings in a way that's understandable to your audience, using non-technical language for non-experts.
 
-### Conclusion
+### 11. Conclusion
 
 The conclusion is where you encapsulate the key findings and insights from your EDA.
 
