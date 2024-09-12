@@ -25,18 +25,18 @@ The core libraries for EDA:</br>
 
 ### 4. Data Cleaning/Wrangling
 **Data Type Convertion:** </br>
-Convert data types for proper analysis.</br>
+  Convert data types for proper analysis.</br>
 **Duplicates**</br>
-  i. Identify Duplicates: duplicated()</br>
-  ii. Remove Duplicates: drop_duplicates()
+    i. Identify Duplicates: duplicated()</br>
+    ii. Remove Duplicates: drop_duplicates()
 
 **Missing Values**</br>
-  i. Identify Missing Values: isnull().sum() method.</br>
-  ii. Handle Missing Data</br>
+    i. Identify Missing Values: isnull().sum() method.</br>
+    ii. Handle Missing Data</br>
 **Inconsistent Data:** </br>
-Correct typos and standardize text.</br>
+  Correct typos and standardize text.</br>
 **Renaming and Reordering Columns:** </br>
-Adjust column names for better readability.
+  Adjust column names for better readability.
 
 ### 5. Data Reduction
 The goal is to simplify the dataset by removing unnecessary or redundant features.
@@ -47,9 +47,9 @@ Consider the domaink knowledge, the objective of your analysis, and statistical 
 
 ### 6. Feature Engineering
 This is the process of using domain knowledge to create new features from the data, which can significantly improve the performance of ML models. This helps to uncover the most impactful attributes hidden within your data.
-**Some Techniques:**</br>
-  i. Creating Derived Features: eg age
-  ii. Categorizing Continuous variables: eg Binning ages into groups
+**Some Techniques:** </br>
+  i. Creating Derived Features: eg age</br>
+  ii. Categorizing Continuous variables: eg Binning ages into groups</br>
   iii. Extract Info from Text Data: eg names
   
     
