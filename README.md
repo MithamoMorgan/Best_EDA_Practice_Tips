@@ -57,6 +57,8 @@ This is the process of using domain knowledge to create new features from the da
 
 ### 7. Exploratory Data Analysis
 This is an open-ended process where you calculate statistics and make figures to find trends, anomalies, patterns, or relationships within the data. The aim is not only to understand what the data is telling us but also to uncover the underlying structure, detect outliers, and test underlying assumptions.
+
+**NB:** EDA is iterative and exploratory in nature. It guides how you frame your analysis, leading to hypothesis generation and further analysis or modeling.
     
   
   
