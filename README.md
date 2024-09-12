@@ -97,5 +97,15 @@ Storytelling:
 
 Communicating Results:
 * Present your findings in a way that's understandable to your audience, using non-technical language for non-experts.
-  
+
+### Conclusion
+The conclusion is where you encapsulate the key findings and insights from your EDA.
+
+**Elements of a Good Conclusion:**
+
+1. Summary of Findings: Briefly summarize the most important insights and patterns observed in your analysis.
+2. Implications: How do your findings affect decision-making?
+3. Limitations: Aknowledge any limitations or uncertainties in your analysis.
+4. Recommendations: Based on your findings, provide recommendations or suggest areas for further analysis.
+5. Engage and Get Feedback: Always engage your auduence. Ask supportive questions. 
   
