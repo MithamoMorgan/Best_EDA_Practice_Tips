@@ -25,11 +25,11 @@ The core libraries for EDA:</br>
 **NB:** Correct the data types if need be.
 
 ### 4. Duplication and Missing Values Management
-**Duplicates**
+**Duplicates**</br>
 i. Identify Duplicates: duplicated()
 ii. Remove Duplicates: drop_duplicates()
 
-**Missing Values**
+**Missing Values**</br>
 i. Identify Missing Values: isnull().sum() method.
 ii. Handle Missing Data
   
