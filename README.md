@@ -80,7 +80,7 @@ These transformations help in preparing the data for more accurate and efficcien
 ### 10. Observing Insights, and Storytelling
 This step is about interpreting the findings from your EDA and weaving them into a coherent narrative.
 
-**Techniques and Tips:**
+**Techniques and Tips:**</br>
 Observation:</br>
   * Look for trends, patterns and anomalies in your analysis
   * Example: Sales spike in Q4, possibly due to holiday shopping
