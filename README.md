@@ -59,9 +59,9 @@ This is an open-ended process where you calculate statistics and make figures to
 **Key Components of EDA:** </br>
   i. Descriptive Statistics: Summarize and describe main features of the dataset</br>
   ii. Data Visualization: Use various plots to see the distribution and relationships between variables.</br>
-    * Univariate Graphical/ Non-Graphical
-    * Bivariate Graphical/ Non-Graphical
-    * Multivariate Graphical/ Non-Graphical
+    * Univariate Graphical/ Non-Graphical</br>
+    * Bivariate Graphical/ Non-Graphical</br>
+    * Multivariate Graphical/ Non-Graphical</br>
   iii. Correlation Analysis: Determine how variables are related to each other.</br>
   iv. Outlier Detection: Identify unusual observations in the dataset.</br>
 
@@ -75,6 +75,26 @@ This step is crucial for understanding the distribution, central tendency, and d
 ### 9. Data Transformation
 This involves modifying the data to a more suitable format or structure for analysis. This step can include normalization, scaling, or applying mathematical transformations.
 
-These transformations hel[ in preparing the data for more accurate and efficcient analysis, especially when building ML models.
+These transformations help in preparing the data for more accurate and efficcient analysis, especially when building ML models.
+
+### 10. Observing Insights, and Storytelling
+This step is about interpreting the findings from your EDA and weaving them into a coherent narrative.
+
+**Techniques and Tips:**
+Observation:</br>
+  * Look for trends, patterns and anomalies in your analysis
+  * Example: Sales spike in Q4, possibly due to holiday shopping
+
+Insight Generation:
+  * Translate observations into actionalble insights.
+  * Example: Product X has the highest sales, suggesting a market preference.
+
+Storytelling:
+  * Craft a narrative around your data, focusing on how your findings relate to the business or research objectives. Keep your audience's expectation and mindset in count.
+
+  * Use visualizations to highlight key point and make your story compeling.
+
+Communicating Results:
+* Present your findings in a way that's understandable to your audience, using non-technical language for non-experts.
   
   
