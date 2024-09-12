@@ -59,6 +59,7 @@ This is an open-ended process where you calculate statistics and make figures to
 **Key Components of EDA:** </br>
   i. Descriptive Statistics: Summarize and describe main features of the dataset</br>
   ii. Data Visualization: Use various plots to see the distribution and relationships between variables.</br>
+  
     * Univariate Graphical/ Non-Graphical</br>
     * Bivariate Graphical/ Non-Graphical</br>
     * Multivariate Graphical/ Non-Graphical</br>
