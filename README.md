@@ -26,13 +26,17 @@ The core libraries for EDA:</br>
 
 ### 4. Duplication and Missing Values Management
 **Duplicates**</br>
-i. Identify Duplicates: duplicated()
-ii. Remove Duplicates: drop_duplicates()
+  i. Identify Duplicates: duplicated()
+  ii. Remove Duplicates: drop_duplicates()
 
 **Missing Values**</br>
-i. Identify Missing Values: isnull().sum() method.
-ii. Handle Missing Data
-  
+  i. Identify Missing Values: isnull().sum() method.
+  ii. Handle Missing Data
+
+### 5. Data Reduction
+The goal is to simplify the dataset by removing unnecessary or redundant features.
+i. Drop Irrelevamt Columns
+ii. Drop Constant columns as they do not add any information
     
   
   
